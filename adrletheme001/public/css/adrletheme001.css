@@ -1,0 +1,254 @@
+/*v001 ASHRAF brzy 00201211159150     08072020*/
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+.desk-container .desk-sidebar {
+    position: relative !important;
+
+    float: right !important;
+
+}
+.chart-container .legend-dataset-text {
+    direction: ltr;
+}
+.widget-group .widget-group-head {
+    direction: ltr;
+}
+.desk-container .desk-body .desk-page.allow-customization .customize-options {
+/*
+    text-align: left;
+*/
+    }
+.sidebar-item {
+    font-size: 14px;}
+    .desk-container .desk-body {
+    padding-left: 2rem;}
+.onboard-spotlight .link-content {
+	font-weight:500 !important}
+.app-logo {
+	width: 30px !important;}
+.navbar-default {
+background: url(/assets/adrle_theme/images/header.png);
+	background-color: #9EA7BB;
+	border-color: #2155a2;}
+#navbar-search {
+	background-color: #7180BB8F;
+	border: 1px solid #123263;
+	color: #ffffff;
+	height: 35px;}
+.navbar-default .navbar-nav > li > a, .navbar-default .navbar-brand {
+	color: #ffffff;}
+.navbar-default .navbar-nav > li > a:hover {
+	color: #cccccc;}
+.navbar {
+	min-height: 46px;}
+.navbar-light{
+background: url(/assets/adrle_theme/images/header.png);
+	background-color: #9EA7BB !important;
+	padding: 0.25rem 1rem;}
+.navbar-light .navbar-nav .nav-link{
+	color: #ffffff;}
+.navbar-light .navbar-nav .nav-link:hover{
+    color:#c7c7c7}
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active{
+	color: #ffffff;}
+.navbar .navbar-search-icon {
+	color: #ffffff;}
+.footer-powered{
+	font-size:90% !important}
+.form-footer, .form-footer a, .form-footer h6{
+	font-size:14px;font-weight:normal}
+a:hover, a:focus {
+	color: #2a60b3;}
+a.text-primary:hover {
+	color: #2a60b3}
+.text-primary {
+	color: #21529e}
+body {
+	font-family: Roboto, Arial, Droid Sans, sans-serif;
+	background: url(/assets/adrle_theme/images/body-bg7.png);
+	background-color: #f8f8f8;}
+small, .small {
+	font-size: 100%;}
+.section-box {
+	border: 1px solid #eaeaea;
+	border-radius:0px !important;
+	background-color:#ffffff;}
+.section-box h4 {
+	color:#3776d8}
+a {
+	color: #6f6f6f;}
+h1, .h1 {
+	font-size: 20px;}
+h4, .h4 {
+	font-size: 15px}
+.page-head {
+	border-bottom: 1px solid #eee;}
+@media (min-width: 768px) {
+.navbar-nav {
+	padding-top: 3px;}}
+.module-box {
+	border: 1px solid #eaeaea !important;
+        border-radius: 0px !important;
+	padding: 8px 15px}
+.module-box:hover{
+	border: 1px solid #b1d0ff !important}
+h6.uppercase, .h6.uppercase {
+	font-size: 14px;
+	font-weight: 500;
+	letter-spacing: 0px;}
+.btn-primary {
+	background-color: #2155a2;
+	border-color: #2155a2;}
+.btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+	background-color: #274b82;
+	border-color: #274b82;}
+.btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
+	background-color: #274b82;
+	border-color: #274b82; }
+.btn-primary:focus, .btn-primary.focus {
+	box-shadow: 0 0 0 0.1rem rgba(74, 120, 247, 0.16);}
+.btn-login{
+	padding:8px}
+.btn:hover{
+	color:#e7e7e7}
+.layout-side-section {
+	font-size: 14px;}
+.list-sidebar .list-sidebar-label {
+	color: #3668b5;
+	font-size: 12px;
+	font-weight: 600;}
+.dropdown-menu {
+	font-size: 14px;}
+.layout-main-section {
+	border: 1px solid #efefef;}
+.active-tag-filters {
+	overflow: auto;}
+.filter-list .tag-filters-area {
+	border: none;
+	background-color: #ffffff;}
+.page-form {
+	border-bottom: 1px solid #efefef;}
+.list-row-head {
+	border-bottom: 1px solid #efefef !important;}
+.dropdown-menu > li > a {
+	font-weight: 500;
+	color: #666;}
+.navbar a {
+	font-size: 16px;
+	font-weight:500}
+.page-card {
+	height: 275px;
+	max-width: 500px !important;
+	padding: 25px !important;
+ 	border: 1px solid #ececec !important;
+	box-shadow: none !important;
+	border-radius:0px !important}
+.page-card .page-card-head {
+	border-bottom:none !important}
+.page-card .page-card-head .indicator {
+ 	color: #2b72e0 !important;
+	font-size: 15px !important;}
+.indicator, .indicator-right{
+	font-weight:500;font-size:13px;}
+.indicator.blue::before, .indicator-right.blue::after{
+	background:#397de6}
+.indicator.orange::before, .indicator-right.orange::after{
+	background:#ffb65c}
+.modal-content{
+	border-radius:0px !important;
+	box-shadow:none !important;
+	-webkit-box-shadow: none !important;
+	border: 1px solid #eaeaea;}
+.control-label, .grid-heading-row{
+	font-size:14px}
+.btn-sm, .btn-group-sm > .btn {
+	font-size:13px}
+.modal-backdrop {
+	background-color:#f8f8f8!important;}
+.form-signin .form-control {
+	padding:8px 6px !important;
+	margin:20px 0px 15px;
+	border-radius:0px;
+	border:1px solid #ececec}
+.form-control:focus {
+	box-shadow: 0 0 0 0.05rem rgba(33, 82, 158, 0.62) !important;}
+
+/*To hide the Help dropdown button */
+.navbar-right .dropdown-help {
+	display:block}
+/*End hide Help dropdown button */
+
+.ellipsis{
+	font-weight:500}
+.list-row-head{
+	color: #3171d0 !important}
+.form-dashboard {
+	background-color: #ffffff !important}
+.layout-main-section{
+	background-color: #ffffff !important}
+.form-documents h6 {
+	font-size: 14px;
+	color: #3171d0;}
+
+/*Icons for Desk*/
+.icon{
+    display: inline-block;
+    height: 25px;
+    width: 25px;
+    vertical-align: bottom;
+    background-size: contain !important;}
+.start-blue{
+   background: url(/assets/adrle_theme/images/start.png)}
+.accounting-blue{
+   background: url(/assets/adrle_theme/images/accounting.png)}	
+.buying-blue{
+   background: url(/assets/adrle_theme/images/buying.png)}
+.selling-blue{
+   background: url(/assets/adrle_theme/images/selling.png)}
+.stock-blue{
+   background: url(/assets/adrle_theme/images/stock.png)}
+.assets-blue{
+   background: url(/assets/adrle_theme/images/assets.png)}
+.projects-blue{
+   background: url(/assets/adrle_theme/images/projects.png)}
+.crm-blue{
+   background: url(/assets/adrle_theme/images/crm.png)}
+.support-blue{
+   background: url(/assets/adrle_theme/images/support.png)}
+.hr-blue{
+   background: url(/assets/adrle_theme/images/hr.png)}
+.quality-blue{
+   background: url(/assets/adrle_theme/images/quality.png)}
+.website-blue{
+   background: url(/assets/adrle_theme/images/website.png)}
+.social-blue{
+   background: url(/assets/adrle_theme/images/social.png)}
+.dashboard-blue{
+   background: url(/assets/adrle_theme/images/dashboard.png)}
+.marketplace-blue{
+   background: url(/assets/adrle_theme/images/marketplace.png)}
+.tools-blue{
+   background: url(/assets/adrle_theme/images/tools.png)}
+.settings-blue{
+   background: url(/assets/adrle_theme/images/settings.png)}
+.users-blue{
+   background: url(/assets/adrle_theme/images/users.png)}
+.customize-blue{
+   background: url(/assets/adrle_theme/images/customize.png)}
+.integrate-blue{
+   background: url(/assets/adrle_theme/images/integrate.png)}
+.developer-blue{
+   background: url(/assets/adrle_theme/images/developer.png)}
+.learn-blue{
+   background: url(/assets/adrle_theme/images/learn.png)}
+.manufacture-blue{
+   background: url(/assets/adrle_theme/images/manufacture.png)}
+.retail-blue{
+   background: url(/assets/adrle_theme/images/retail.png)}
+.education-blue{
+   background: url(/assets/adrle_theme/images/education.png)}
+.healthcare-blue{
+   background: url(/assets/adrle_theme/images/healthcare.png)}
+.agriculture-blue{
+   background: url(/assets/adrle_theme/images/agriculture.png)}
+.non-profit-blue{
+   background: url(/assets/adrle_theme/images/charity.png)}
