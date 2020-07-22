@@ -6,6 +6,9 @@
     float: right !important;
 
 }
+.dt-scrollable {
+    overflow-y: auto !important;
+}
 .chart-container .legend-dataset-text {
     direction: ltr;
 }
