@@ -6,6 +6,11 @@
     float: right !important;
 
 }
+.frappe-rtl .desk-body {
+    padding-left: 0;
+    padding-right: 10px !important;
+}
+
 .dt-scrollable {
     overflow-y: auto !important;
 }
