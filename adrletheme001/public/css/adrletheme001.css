@@ -48,7 +48,7 @@ background: url(/assets/adrletheme001/images/header.png);
 	color: #cccccc;}
 .navbar {
 	min-height: 46px;}
-.navbar-light{
+.navbar{
 background: url(/assets/adrletheme001/images/header.png);
 	background-color: #9EA7BB !important;
 	padding: 0.25rem 1rem;}
@@ -70,10 +70,13 @@ a.text-primary:hover {
 	color: #2a60b3}
 .text-primary {
 	color: #21529e}
+.page-container {
+	  background-color: transparent !important;
+  }
 body {
 	font-family: Roboto, Arial, Droid Sans, sans-serif;
-	background: url(/assets/adrletheme001/images/body-bg7.png);
-	background-color: #f8f8f8;}
+/*	background: url(/assets/adrletheme001/images/body-bg7.png);
+*/	background-color: #f8f8f8;}
 small, .small {
 	font-size: 100%;}
 .section-box {
@@ -83,7 +86,7 @@ small, .small {
 .section-box h4 {
 	color:#3776d8}
 a {
-	color: #6f6f6f;}
+	color: #0a0a0a;}
 h1, .h1 {
 	font-size: 20px;}
 h4, .h4 {
@@ -179,7 +182,13 @@ h6.uppercase, .h6.uppercase {
 	border:1px solid #ececec}
 .form-control:focus {
 	box-shadow: 0 0 0 0.05rem rgba(33, 82, 158, 0.62) !important;}
-
+.toggle-password{
+right: 36px !important;
+}
+.field-icon {
+	    right:9px !important;
+    left: 290px !important;
+		}
 /*To hide the Help dropdown button */
 .navbar-right .dropdown-help {
 	display:block}
