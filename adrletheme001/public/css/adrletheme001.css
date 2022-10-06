@@ -11,7 +11,7 @@
     padding-right: 10px !important;
 }
 .for-login .sign-up-message, .for-forgot .sign-up-message, .for-signup .sign-up-message, .for-email-login .sign-up-message {
-    margin-top: 4rem;
+    margin-top: 4rem !important;
     color: var(--text-light);
     font-size: var(--text-md);
 }
