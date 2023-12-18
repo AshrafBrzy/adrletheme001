@@ -193,6 +193,10 @@ right: 36px !important;
 	    right:9px !important;
     left: 290px !important;
 		}
+#navbar-breadcrumbs li.disabled a {
+  color: wheat !important;
+  pointer-events: none;
+}
 /*To hide the Help dropdown button */
 .navbar-right .dropdown-help {
 	display:block}
